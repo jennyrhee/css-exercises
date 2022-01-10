@@ -1,0 +1,19 @@
+.first-class {
+  background-color: #d87093;
+  font-family: Verdana, sans-serif;
+}
+
+.first-class.cool {
+  font-size: 24px;
+}
+
+#unique-id {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#another-id {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
